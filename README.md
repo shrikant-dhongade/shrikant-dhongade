@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img height="50%" width="100%" alt="welcome to my profile!" src="Logic.png"></div>
+<div align="center" ><img height="50%" width="100%" alt="welcome to my profile!" src="1.png"></div>
 <h1 align="center">Hi 👀👋, I'm Shrikant Dhongade </br>Sr. Frontend Developer</h1>
 <h3 align="center">Being from India, I am passionate about frontend development and CSS is one of my superpowers.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshaa11th&label=Profile%20views&color=0e75b6&style=flat" alt="Codeingwithshrikant" /> </p>
